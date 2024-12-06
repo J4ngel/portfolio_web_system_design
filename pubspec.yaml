@@ -1,7 +1,8 @@
 name: portfolio_web_system_design
 description: "System design of my portfolio web"
 version: 0.0.1
-homepage:
+author: Jaime Angel
+homepage: https://J4ngel.github.io
 
 environment:
   sdk: ^3.5.4
