@@ -1,0 +1,29 @@
+class DSBorderRadius {
+  static const double borderRadiusNone = 0.0;
+  static const double borderRadius02 = 2.0;
+  static const double borderRadius04 = 4.0;
+  static const double borderRadius08 = 8.0;
+  static const double borderRadius12 = 12.0;
+  static const double borderRadius16 = 16.0;
+  static const double borderRadius20 = 20.0;
+  static const double borderRadius24 = 24.0;
+  static const double borderRadius28 = 28.0;
+  static const double borderRadius32 = 32.0;
+  static const double borderRadius36 = 36.0;
+  static const double borderRadius40 = 40.0;
+  static const double borderRadius44 = 44.0;
+  static const double borderRadius48 = 48.0;
+  static const double borderRadius52 = 52.0;
+  static const double borderRadius56 = 56.0;
+  static const double borderRadius60 = 60.0;
+  static const double borderRadius64 = 64.0;
+  static const double borderRadius68 = 68.0;
+  static const double borderRadius72 = 72.0;
+  static const double borderRadius76 = 76.0;
+  static const double borderRadius80 = 80.0;
+  static const double borderRadius84 = 84.0;
+  static const double borderRadius88 = 88.0;
+  static const double borderRadius92 = 92.0;
+  static const double borderRadius96 = 96.0;
+  static const double borderRadius100 = 100.0;
+}
